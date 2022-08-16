@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my GitHub profile 👋
+## My name is Victor Nogueira! 
+### I'm a Back-end Developer
 
 <!--
 **victorftrdba/victorftrdba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
