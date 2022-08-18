@@ -19,11 +19,11 @@ width="80" height="80" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh
 <img src="https://img.icons8.com/color/30/000000/discord-logo.png"/><br/> <a href="">@Victor Nogueira#8779</a>
 </div> <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victorftrdba&" alt="victorftrdba" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victorftrdba&" alt="victorftrdba" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorftrdba&show_icons=true&locale=en&layout=compact" alt="victorftrdba" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorftrdba&show_icons=true&locale=en&layout=compact" alt="victorftrdba" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorftrdba&show_icons=true&locale=en" alt="victorftrdba" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorftrdba&show_icons=true&locale=en" alt="victorftrdba" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=victorftrdba&theme=onedark&title=MultiLanguage,Joined2020,Commits,Repositories,Stars,Followers)](https://github.com/victorftrdba/github-profile-trophy)
 
