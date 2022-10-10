@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Welcome to my GitHub profile</h1>
 <h3>VICTOR NOGUEIRA</h3>
-<h3>BACKEND DEVELOPER</h3>
+<h3>FULLSTACK DEVELOPER</h3>
 <br/>
   
 ### **Languages & Tools**
