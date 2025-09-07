@@ -3,8 +3,6 @@
 
 <p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victorftrdba" alt="victorftrdba" /></a> </p>
 
-- 🔭 I’m currently working at [Pruvo.app](https://pruvo.app/)
-
 - 👨‍💻 All of my projects are available at [https://github.com/victorftrdba?tab=repositories](https://github.com/victorftrdba?tab=repositories)
 
 - 💬 Ask me about **back-end technologies and cloud computing**
