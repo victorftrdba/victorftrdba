@@ -54,12 +54,14 @@ I build and operate SaaS applications, educational AI tools, integrations, autom
 | [lab-terraform-local](https://github.com/victorftrdba/lab-terraform-local) | Infrastructure-as-code experiments with a minimal surface area. |
 | [devops-jenkins](https://github.com/victorftrdba/devops-jenkins) | Jenkins automation and DevOps practice material. |
 
-## GitHub Snapshot
+## Public Profile Snapshot
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=victorftrdba&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Victor's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorftrdba&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Victor's most used languages" />
-</p>
+| Signal | Current emphasis |
+| --- | --- |
+| Public repositories | Curated labs and examples around cloud, DevOps, data, and infrastructure |
+| Main languages | TypeScript, C#, Go, Python, HCL, and Vue |
+| Delivery style | Production systems, automation, platform work, and pragmatic product engineering |
+| Private work | Client projects, internal SaaS systems, and active product codebases |
 
 ## How I Like To Build
 
